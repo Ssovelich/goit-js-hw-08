@@ -9,6 +9,9 @@
   margin: auto;
   padding: 0;
 }
+.gallery-image {
+  display: block;
+}
 .gallery-item:hover {
   transform: scale(1.03);
   transition: transform 250ms;
